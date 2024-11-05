@@ -1,0 +1,122 @@
+{
+    "navbar":{
+        "home":"Bosh sahifa",
+        "about":"Biz haqimizda",
+        "contact":"Kontaktlar",
+        "tour":"Sayohatlar"
+    },
+    "header":{
+        "title":"Go'zal shaharga bir nazar tashlang:",
+        "name1":"Italiya",
+        "name2":"Shveytsariya",
+        "name3":"Havail",
+        "name4":"Dubay",
+        "text1":"Aholi:",
+        "text2":"Hudud:",
+        "text3":"O'rtacha narx:",
+        "btn1":"Borasizmi?",
+        "btn2":"Ko'proq bilish"
+    },
+    "tour":{
+        "title":"Har bir shaharda eng yaxshi haftalik takliflar",
+        "text":"Har bir shaharda eng yaxshi haftalik takliflarni kashf eting, faqat siz uchun tanlangan. Tejash dunyosiga sho'ng'ing va mislsiz tajribalardan bahramand bo'ling.",
+        "cardtitle1":"Kanada",
+        "cardtitle2":"Yaponiya",
+        "cardtitle3":"Avstraliya",
+        "cardtitle4":"Chexiya",
+        "cardtitle5":"Germaniya",
+        "cardtitle6":"Madrid",
+        "cardtitle7":"Parij",
+        "cardtitle8":"Turkiya",
+        "cardtitle9":"Islandiya",
+        "cardtext":"Taklif ichiga quyidagilar kiradi:"
+    },
+    "swipercard":{
+        "text1":"Ro'yxatdan o'tishlar",
+        "text2":"Eng yaxshi narxlar",
+        "text3":"Qisqa ishlov berish vaqti",
+        "text4":"Ishonchli yordam",
+        "title1":"Belgiya",
+        "title2":"Xitoy",
+        "title3":"Hindiston",
+        "title4":"Islandiya",
+        "title5":"Ummon",
+        "title6":"Madrid",
+        "title7":"Saudiya Arabistoni",
+        "subtext":"Bizning Viza Qo'llab-quvvatlash xizmatimizning foydalari:",
+        "btn":"Buyurtma qiling"
+    },
+    "support":{
+        "title":"Viza Qo'llab-quvvatlash",
+        "text":"Bizning ekspert viza qo'llab-quvvatlashimiz bilan stresssiz sayohat qiling. Biz muammosiz yordam va keng qamrovli yo'riqnoma taqdim etamiz, sayohatingizni qulay va oson qiladi."
+    },
+    "slidercard":{
+        "title":"Ro'yxatdan o'tishlar",
+        "name":"/kishi",
+        "text1":"5 kunlik sayohat  Mehmonxona kiritilgan",
+        "text2":"Samolyot narxi kiritilgan",
+        "text3":" Kunlik joylar tashrifi",
+        "btn":"Buyurtma qiling"
+    },
+    "about":{
+        "title":"Manzillarni osongina kashf eting",
+        "text1":"Har bir shaharda temiryo'l va samolyot chiptalari bo'yicha eng yaxshi takliflarni toping, siz uchun ehtiyotkorlik bilan tanlangan.",
+        "text2":"Butun dunyo",
+        "text3":"Temiryo'l sarguzashtiga chiqing va dunyo bo'ylab manzillarni kashf eting. Bu go'zal landshaftlar, gavjum shaharlar yoki madaniy durdonalar bo'ladimi, bizning temiryo'l xizmatlarimiz dunyo bo'ylab o'ziga xos va qulay sayohat qilish usulini taklif qiladi. Turli madaniyatlarning go'zalligiga sho'ng'ing, barchasi bizning keng temiryo'l tarmog'imiz orqali mavjud.",
+        "text4":"Global manzillar",
+        "text5":"Havo sarguzashtiga chiqing va dunyo bo'ylab manzillarni kashf eting. Bu hayratomuz landshaftlar, jonli shaharlar yoki madaniy xazinalar bo'ladimi, bizning aviaxizmatlarimiz dunyo bo'ylab qulay va hayajonli sayohat qilish usulini taqdim etadi. Turli madaniyatlarning boyligiga sho'ng'ing, barchasi bizning keng aviaxizmat tarmog'imiz orqali osonlik bilan mavjud.",
+        "name1":"Biz bilan arzon temiryo'l chiptalari",
+        "name2":"Ajoyib havo sayohatlarini his qiling",
+        "btn":"Ko'proq bilish"
+    },
+    "main":{
+        "title":"Endi Bizning Davlatlarimizdan Biriga Tashrif Buyuring",
+        "text1":"Har bir shaharda eng yaxshi takliflarni kashf eting, faqat siz uchun tanlangan. Tejash dunyosiga sho'ng'ing va mislsiz tajribalardan bahramand bo'ling.",
+        "name1":"Dubay",
+        "text2":"Birlashgan Arab Amirliklari",
+        "text3":"Dubay, Birlashgan Arab Amirliklaridagi shahar va amirlik bo'lib, hashamatli savdo, ultramodern arxitektura va jonli tungi hayoti bilan tanilgan. Burj Xalifa, 830 metr balandlikdagi minorasi, osmon qirilgan manzaraga ustunlik qiladi. Uning poyida Dubay favvorasi joylashgan, musiqa bilan muvofiqlashtirilgan reaktiv va chiroqlar. Qirg'oqda joylashgan sun'iy orollarda Atlantis, The Palm kurorti joylashgan bo'lib, suv va dengiz hayvonlari parklari mavjud.",
+        "text4":"Million odamlar",
+        "text5":"Turkiya",
+        "text6":"Antalya Turkiyaning eng tez rivojlanayotgan shahri bo'lib, dunyoning turli burchaklaridan kelgan sayyohlar uning ajoyib plyajlari va an'anaviy turk madaniyatini kashf etmoqda. Bolalar Beach Parkni sevadi, unda Aqua Land (suv slaydlari ishtiyoqmandlar uchun orzu) va Dolphin Land (delfinlar, dengiz arslonlari va oq kitlar uyi) mavjud. Eski shahar markazini o'rganishni va Adrian darvozasini ko'rishni unutmang.",
+        "text7":"Misr",
+        "text8":"Sharm El-Sheikh Sinay yarim orolida turizm markazi bo'lib, dunyodagi eng yaxshi suvga sho'ng'ish joylariga ega. Ayniqsa, Ras Mohammed milliy bog'ining suv osti mo'jizalari Sharm shahrini butunlay boshqa darajaga ko'tardi. Shahar suvga sho'ng'ish va kema avariyasi joylariga ega bo'lib, bu dunyoning turli burchaklaridan kelgan ilg'or va o'yin-kulgi sho'ng'inchilarini qizil dengiz tubidagi noyob dengiz hayotini kashf qilishga jalb qiladi.",
+        "text9":"Turkiya",
+        "text10":"Istanbul Turkiyaning eng ko'p aholisi bo'lgan shahar va uning madaniy, iqtisodiy va tarixiy markazi. U Turkiyaning shimoliy-g'arbiy qismida joylashgan bo'lib, Bosfor tomonidan Yevropa va Osiyo tomonlariga bo'linadi, bu Marmara dengizi va Qora dengizni bog'laydi. Bu dunyodagi yagona shahar bo'lib, ikki qit'ada joylashgan.",
+        "name2":"Antalya",
+        "name3":"Sharm El-Sheikh",
+        "name4":"Istanbul",
+        "link":"Yo'nalish kerakmi?",
+        "btn":"Ko'proq bilish"
+    },
+    "location":{
+        "title":"Eng yaxshi manzillar",
+        "text":"Har bir shaharda eng yaxshi takliflarni kashf eting, faqat siz uchun tanlangan. Tejash dunyosiga sho'ng'ing va mislsiz tajribalardan bahramand bo'ling."
+    },
+    "contact":{
+        "title":"O'zingiz yoqtirganingizni tanlang",
+        "name":"Buyurtma qiling",
+        "btn":"Ko'proq bilish",
+        "text1":"Telefon orqali qo'ng'iroq qiling",
+        "text2":"Biz bilan email orqali bog'laning",
+        "text3":"Ofislarimizga tashrif buyuring"
+    },
+    "message":{
+        "name1":"O'z",
+        "title1":"Joyingizni",
+        "name2":"Band",
+        "title2":"Qiling",
+        "label1":"Ismingiz",
+        "label2":"Telefon raqamingiz",
+        "label3":"Mehmonlar soni",
+        "label4":"Kirish sanasi",
+        "label5":"Manzilingizni tanlang",
+        "label6":"Viza turini tanlang",
+        "btn":" Buyurtma qiling"
+    },
+    "footer":{
+        "title":"SAYOHAT QILMOQCHIMISIZ?",
+        "name":"Tugmani bosish orqali biz bilan bog'laning",
+        "text":"Mualliflik huquqi © 2024 Zamon Business Tour. Barcha huquqlar himoyalangan.",
+        "btn":"Bog'lanish"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "navbar":{
+        "home":"Home",
+        "about":"About",
+        "contact":"Contacts",
+        "tour":"Tours"
+    },
+    "header":{
+        "title":"Take a Glimpse Into The Beautiful City Of:",
+        "name1":"Italy",
+        "name2":"Switzerland",
+        "name3":"Havail",
+        "name4":"Dubai",
+        "text1":"Population:",
+        "text2":"Territory:",
+        "text3":"AVG Price:",
+        "btn1":"Go there",
+        "btn2":"Explore more"
+    },
+    "tour":{
+        "title":"Best Weekly Offers In Each City",
+        "text":"Discover the best weekly offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+        "cardtitle1":"Canada",
+        "cardtitle2":"Japan",
+        "cardtitle3":"Australia",
+        "cardtitle4":"Czech Republic",
+        "cardtitle5":"Germany",
+        "cardtitle6":"Madrid",
+        "cardtitle7":"Paris",
+        "cardtitle8":"Turkey",
+        "cardtitle9":"Iceland",
+        "cardtext":"Deal Includes:"
+    },
+    "swipercard":{
+        "text1":"Check Ins",
+        "text2":"Best Prices",
+        "text3":"Short Processing Time",
+        "text4":"Trustworthy Assistance",
+        "title1":"Belgium",
+        "title2":"China",
+        "title3":"India",
+        "title4":"Icsland",
+        "title5":"Oman",
+        "title6":"Madrid",
+        "title7":"Saudi Arabia",
+        "subtext":"Benefits of our Visa Support service:",
+        "btn":"Make A Reservation"
+    },
+    "support":{
+        "title":"Visa Support",
+        "text":"Experience stress-free travel with our expert visa support. We provide seamless assistance and comprehensive guidance, ensuring a smooth journey."
+    },
+    "slidercard":{
+        "title":"Check Ins",
+        "name":"/person",
+        "text1":"5 Days Trip  Hotel Included",
+        "text2":"Airplane Bill Included",
+        "text3":" Daily Places Visit",
+        "btn":"Make A Reservation"
+    },
+    "about":{
+        "title":"Explore Destinations With Ease",
+        "text1":"Find the best deals on railway and airplane tickets in each city, carefully selected for you.",
+        "text2":"Whole world",
+        "text3":"Embark on a railway adventure and explore destinations worldwide. Whether it's the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network. .",
+        "text4":"Global Destinations",
+        "text5":"Embark on an airborne adventure and explore destinations worldwide. Whether it's the breathtaking landscapes, vibrant cities, or cultural treasures, our airline services provide a convenient and exhilarating way to navigate the globe. Immerse yourself in the richness of diverse cultures, all easily accessible through our extensive air travel network. .",
+        "name1":"Cheap Railway Tickets With Us",
+        "name2":"Discover Exciting Air Travel Deals",
+        "btn":"Explore More"
+    },
+    "main":{
+        "title":"Visit One Of Our Countries Now",
+        "text1":"Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+        "name1":"Dubai",
+        "text2":"United Arab Emirated",
+        "text3":"Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+        "text4":"Mil People",
+        "text5":"Turkey",
+        "text6":"Antalya is the fastest-growing city in Turkey, and tourists from around the world are discovering its fabulous mix of great beaches and traditional Turkish culture. Kids will love the Beach Park, which features Aqua Land (a waterslide-fanatic's dream) and Dolphin Land (home to dolphins, sea lions and white whales). Make sure to explore the old town center and to see Hadrian's Gate.",
+        "text7":"Egypt",
+        "text8":"Sharm El Sheikh is the center of tourism action in Sinai Peninsula and it has the world top diving sites. Specially the underwater wonders of Ras Mohammed national park that took Sharm city to whole different level. The city has diving and shipwreck sites that attract both advanced and recreational divers from around the world to discover the un parallel marine life deep down the red sea.",
+        "text9":"Turkey",
+        "text10":"Istanbul is the most populous city in Turkey and its cultural, economic and historic center. It is located in north-western part of Turkey, divided into European and Asian side by Bosphorus, which connects the Sea of Marmara and Black Sea. It is the only city in the world that sits on two continents.",
+        "name2":"Antalya",
+        "name3":"Sharm El-Sheikh",
+        "name4":"Istanbul",
+        "link":"Need Directions ?",
+        "btn":"Explore More"
+    },
+    "location":{
+        "title":"Best Locations",
+        "text":"Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences."
+    },
+    "contact":{
+        "title":"Book Prefered Deal Here",
+        "name":"Make Your Reservation",
+        "btn":"Discover More",
+        "text1":"Make a Phone Call",
+        "text2":"Contact Us via Email",
+        "text3":"Visit Our Offices"
+    },
+    "message":{
+        "name1":"Make Your",
+        "title1":"Reservation",
+        "name2":"Through This",
+        "title2":"Form",
+        "label1":"Your Name",
+        "label2":"Your Phone Number",
+        "label3":"Number Of Guests",
+        "label4":"Check In Date",
+        "label5":"Choose Your Destination",
+        "label6":"Choose Your Visa Support",
+        "btn":"Make Your Reservation Now"
+    },
+    "footer":{
+        "title":"ARE YOU LOOKING TO TRAVEL ?",
+        "name":"Make A Reservation By Clicking The Button",
+        "text":"Copyright © 2024 Zamon Business Tour. All rights reserved.",
+        "btn":"Book Yours Now"
+    }
+}

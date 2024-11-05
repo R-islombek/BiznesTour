@@ -1,0 +1,28 @@
+
+.fa-bars{
+    color:white;
+}
+.navbar__link_modal{
+    color:rgb(243, 158, 30);
+}
+.navbar__link_modal:hover{
+    color: rgb(161, 157, 157);
+}
+.navbar__btn_modal{
+    color: rgb(243, 158, 30);
+    font-size:16px;
+    border: none;
+    background-color:white;
+}
+.navbar__btn_modal:hover{
+    color: rgb(161, 157, 157);
+}
+.modal{
+  text-align: center;
+  right: 0;
+ padding: 0;
+ 
+
+  
+}
+

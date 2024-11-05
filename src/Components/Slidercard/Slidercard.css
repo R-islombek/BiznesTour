@@ -1,0 +1,84 @@
+.Slidercard__img{
+    width: 260px;
+    height: 350px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.Slidercard__list{
+    width: 280px;
+    height: 380px;
+    position: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 15px 0px #00000026;
+    top: 30px;
+    left: 130px;
+}
+.Slidercard{
+    position: relative;
+}
+.Slidercard__title{
+    font-size:26px;
+    color: black;
+    font-weight: bold;
+}
+.Slidercard__num{
+    color:rgb(243, 158, 30);
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 50px;
+}
+.Slidercard__item{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    padding-top: 15px;
+}
+.Slidercard__text{
+    color: #AFAFAF;
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.fa-users,.fa-car,.fa-plane,.fa-building{
+    color:#AFAFAF
+}
+.Slidercard__subtext{
+    color: black;
+    font-size:14px;
+    font-weight: 600;
+}
+.Slidercard__hr{
+    width: 100%;
+    background-color: #AFAFAF;
+    margin-top: 25px;
+    margin-bottom:25px;
+}
+.button{
+    margin-top:20px
+}
+
+
+@media(max-width:420px){
+    .Slidercard__img{
+        width: 230px;
+        height: 280px;
+    }
+    .Slidercard__list{
+        width: 260px;
+        height: 380px;
+        position: absolute;
+        padding: 15px;
+        border-radius: 15px;
+        background-color: white;
+        box-shadow: 0px 0px 15px 0px #00000026;
+        top: 50px;
+        left: 40px;
+    }
+    .Slidercard__hr{
+        margin-top:15px;
+        margin-bottom: 15px;
+    }
+}
+

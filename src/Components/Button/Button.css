@@ -1,0 +1,22 @@
+.button:hover{
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+.button{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(233, 147, 18);
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.button__link{
+    color: white;
+    font-size:16px;
+    font-weight: 500;
+    border:none;
+}

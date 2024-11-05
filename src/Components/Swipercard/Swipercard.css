@@ -1,0 +1,85 @@
+.Swipercard__img{
+    width: 280px;
+    height: 190px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.Swipercard__list{
+    width: 290px;
+    height: 380px;
+    position: absolute;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 15px 0px #00000026;
+    top: 30px;
+    left: 100px;
+}
+.Swipercard{
+    position: relative;
+    
+}
+.Swipercard__title{
+    font-size:26px;
+    color: black;
+    font-weight: bold;
+}
+.Swipercard__num{
+    color:rgb(243, 158, 30);
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 50px;
+}
+.Swipercard__item{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    padding-top: 15px;
+}
+.Swipercard__text{
+    color: #AFAFAF;
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.fa-users,.fa-clock,.fa-tag,.fa-check{
+    color:#AFAFAF
+}
+.Swipercard__subtext{
+    color: black;
+    font-size:14px;
+    font-weight: 600;
+}
+.Swipercard__hr{
+    width: 100%;
+    background-color: #AFAFAF;
+    margin-top: 25px;
+    margin-bottom:25px;
+}
+.button{
+    margin-top:20px
+}
+
+@media(max-width:420px){
+    .Swipercard__list{
+        width: 290px;
+        height: 340px;
+        position: absolute;
+        padding: 15px;
+        border-radius: 15px;
+        background-color: white;
+        box-shadow: 0px 0px 15px 0px #00000026;
+        top: 40px;
+        left: 70px;
+    }
+    .Swipercard__hr{
+        width: 100%;
+        background-color: #AFAFAF;
+        margin-top: 15px;
+        margin-bottom:15px;
+    }
+    .Swipercard__title{
+        font-size: 24px;
+    }
+
+}
